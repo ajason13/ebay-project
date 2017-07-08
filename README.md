@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Ebay Project
 
-*Default Structure for A Basic Project*
+*Test Ebay using Excel as Data Provider source*
 
 **Java 8**
 
